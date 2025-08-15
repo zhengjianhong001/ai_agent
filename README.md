@@ -86,7 +86,7 @@ python real_world_example.py
 python test.py
 ```
 
-## 🔧 MCP 功能使用
+## 🔧 集成 MCP Server 功能使用
 
 ### 使用 LangChain MCP 客户端
 
