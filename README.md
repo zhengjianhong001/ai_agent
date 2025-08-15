@@ -25,7 +25,7 @@
 
 ```bash
 git clone https://github.com/zhengjianhong001/ai_agent_test
-cd langchain
+cd ai_agent_test
 ```
 
 ### 2. 创建虚拟环境
